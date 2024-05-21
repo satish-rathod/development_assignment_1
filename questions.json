@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": [" Berlin", " Madrid", " Paris", " Rome"],
+        "correct": " Paris"
+    },
+    {
+        "question": "Which language is used for web development?",
+        "options": [" Python", " HTML", " Java", " C++"],
+        "correct": " HTML"
+    },
+    {
+        "question": "Who wrote 'To Kill a Mockingbird'?",
+        "options": [" Harper Lee", " J.K. Rowling", " Ernest Hemingway", " Mark Twain"],
+        "correct": " Harper Lee"
+    },
+    {
+        "question": "What is the largest planet in our solar system?",
+        "options": [" Earth", " Mars", " Jupiter", " Saturn"],
+        "correct": " Jupiter"
+    },
+    {
+        "question": "What is the speed of light?",
+        "options": [" 300,000 km/s", " 150,000 km/s", " 450,000 km/s", " 600,000 km/s"],
+        "correct": " 300,000 km/s"
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "options": [" Vincent van Gogh", " Pablo Picasso", " Leonardo da Vinci", " Claude Monet"],
+        "correct": " Leonardo da Vinci"
+    },
+    {
+        "question": "What is the boiling point of water?",
+        "options": [" 90°C", " 100°C", " 80°C", " 70°C"],
+        "correct": " 100°C"
+    },
+    {
+        "question": "What is the smallest prime number?",
+        "options": [" 1", " 2", " 3", " 5"],
+        "correct": " 2"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": [" Venus", " Mars", " Jupiter", " Saturn"],
+        "correct": " Mars"
+    },
+    {
+        "question": "What is the hardest natural substance on Earth?",
+        "options": [" Gold", " Iron", " Diamond", " Silver"],
+        "correct": " Diamond"
+    }
+]
